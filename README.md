@@ -11,5 +11,5 @@ The request for data can be;
 5. All data
 
 Handy information:
-https://www.google.com/patents/US7504964
-http://jimlaurwilliams.org/wordpress/?p=3048
+1. https://www.google.com/patents/US7504964
+2. http://jimlaurwilliams.org/wordpress/?p=3048
