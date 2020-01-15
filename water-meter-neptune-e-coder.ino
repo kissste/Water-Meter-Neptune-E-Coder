@@ -1,4 +1,7 @@
 /*
+  Water Meter Neptune E-Coder
+  Cloned from: https://github.com/BobPrust/Water-Meter-Neptune-E-Code
+
 Web Server, Web client, water meter reader, MicroSD card
 File: DateData.txt
 Circuit: Ethernet shield attached to pins 10, 11, 12, 13
